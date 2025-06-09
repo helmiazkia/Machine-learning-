@@ -1,0 +1,21 @@
+google-api-python-client==2.93.0
+streamlit
+pandas
+matplotlib
+seaborn
+wordcloud
+Sastrawi
+deep-translator
+textblob
+nltk
+scikit-learn
+openpyxl
+
+# Tambahan direkomendasikan
+regex
+emoji
+beautifulsoup4
+langdetect
+tqdm
+plotly
+joblib
